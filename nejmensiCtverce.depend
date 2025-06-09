@@ -1,0 +1,31 @@
+# depslib dependency file v1.0
+1741089739 source:r:\nejmensictverce\main.c
+	"gvid.h"
+	<stdio.h>
+	<stdlib.h>
+	"pole.h"
+
+1593622402 r:\nejmensictverce\gvid.h
+
+1741087022 r:\nejmensictverce\pole.h
+
+1741106212 source:c:\users\rgrme\onedrive\desktop\nejmensictverce\nejmensictverce\main.c
+	"gvid.h"
+	<stdio.h>
+	<stdlib.h>
+	"pole.h"
+
+1741106212 c:\users\rgrme\onedrive\desktop\nejmensictverce\nejmensictverce\gvid.h
+
+1741106212 c:\users\rgrme\onedrive\desktop\nejmensictverce\nejmensictverce\pole.h
+
+1741109812 source:c:\users\rgrme\onedrive\desktop\metoda-nejmensich-ctvercu\main.c
+	"gvid.h"
+	<stdio.h>
+	<stdlib.h>
+	"pole.h"
+
+1741109812 c:\users\rgrme\onedrive\desktop\metoda-nejmensich-ctvercu\gvid.h
+
+1741109812 c:\users\rgrme\onedrive\desktop\metoda-nejmensich-ctvercu\pole.h
+
