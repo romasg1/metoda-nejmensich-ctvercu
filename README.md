@@ -12,7 +12,6 @@ Tento projekt slouží k odvození a testování aproximace naměřených dat li
    - Funkce pro výpočet koeficientů soustavy normálních rovnic.  
    - Použití vlastní implementace metody řešení soustav (Gauss, G-J, …).  
    - Načítání testovacích dat z hlavičkového souboru `pole.h`.  
-   - Načítání větších datasetů z textových souborů `F.txt` (lineární) a `E.txt` (konstantní).
 
 ## Požadavky
 
